@@ -1,0 +1,14 @@
+{
+  "name": "resin-node-boilerplate",
+  "version": "1.0.0",
+  "description": "A starting point for node.js projects on resin.io",
+  "main": "main.js",
+  "scripts": {
+    "preinstall": "bash deps.sh",
+    "prestart": "bash start.sh",
+    "start": "node main.js"
+  },
+  "author": "Shaun <shaun@resin.io>",
+  "license": "ISC",
+  "dependencies": {}
+}
