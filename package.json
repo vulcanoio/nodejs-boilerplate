@@ -10,5 +10,8 @@
   },
   "author": "Shaun <shaun@resin.io>",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.40 <0.12"
+  }
 }
