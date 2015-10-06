@@ -2,6 +2,10 @@
   "name": "resin-node-boilerplate",
   "version": "1.0.0",
   "description": "A starting point for node.js projects on resin.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resin-io-projects/nodejs-boilerplate.git"
+  },
   "main": "main.js",
   "scripts": {
     "preinstall": "bash deps.sh",
