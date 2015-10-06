@@ -6,11 +6,11 @@
     "type": "git",
     "url": "https://github.com/resin-io-projects/nodejs-boilerplate.git"
   },
-  "main": "main.js",
+  "main": "server.js",
   "scripts": {
     "preinstall": "bash deps.sh",
     "prestart": "bash start.sh",
-    "start": "node main.js"
+    "start": "node server.js"
   },
   "author": "Shaun <shaun@resin.io>",
   "license": "ISC",
